@@ -4,7 +4,8 @@ const Timer = document.querySelector(".circle2");
 Timer.addEventListener("click", () => {
   //change element colors while function is working
   document.getElementById("VR").style = "color:white;";
-  document.getElementById("circle2").style = "color:white;";
+  document.getElementById("txt").style = "color:white;";
+  document.getElementById("txt1").style = "color:white;";
   document.getElementById("circle2").style = "background-color:grey;";
 
   var timeleft = 10;
