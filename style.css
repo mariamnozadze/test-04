@@ -15,6 +15,7 @@ a {
   background-color: #000000;
 }
 
+/***HEADER****/
 .logo img {
   margin: 5px 10px;
   padding: 10px;
@@ -22,6 +23,7 @@ a {
   height: 7rem;
 }
 
+/***CIRCLES***/
 .content {
   display: flex;
   justify-content: center;
@@ -64,6 +66,7 @@ h1 {
   display: flex;
 }
 
+/***changing circle positions***/
 .circle1 {
   transform: translateY(-220px) translateX(75px);
 }
@@ -80,6 +83,7 @@ h1 {
   transform: translateX(10px);
 }
 
+/****FOOOTER****/
 .footer {
   display: flex;
   flex-direction: row;
