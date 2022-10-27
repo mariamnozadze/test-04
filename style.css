@@ -89,7 +89,7 @@ h1 {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  transform: translateY(100px);
+  transform: translateY(116px);
 }
 
 .footer .icons,
